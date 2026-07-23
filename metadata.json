@@ -1,0 +1,6 @@
+{
+  "name": "JavaHo",
+  "description": "JavaHo - Bhojpuri mein coding | Web-based online compiler and interpreter for BhojpuriLang powered by Java backend engine.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
